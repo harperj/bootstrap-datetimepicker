@@ -1,5 +1,8 @@
 # Bootstrap 3 Date/Time Picker
-![GitHub version](https://badge.fury.io/gh/Eonasdan%2Fbootstrap-datetimepicker.png)&nbsp;&nbsp;&nbsp;![Travis](https://travis-ci.org/Eonasdan/bootstrap-datetimepicker.svg?branch=development)&nbsp;&nbsp;&nbsp;[![Stories in Ready](https://badge.waffle.io/Eonasdan/bootstrap-datetimepicker.png?label=ready&title=Ready)](https://waffle.io/Eonasdan/bootstrap-datetimepicker)
+
+THIS IS AN UNOFFICIAL FORK OF https://github.com/Eonasdan/bootstrap-datetimepicker
+
+The goal of this fork is simply to bump moment.js up to the newest stable version.  Please prefer to use eonasdan's repository rather than contributing to this one.
 
 ![DateTimePicker](http://i.imgur.com/nfnvh5g.png)
 
